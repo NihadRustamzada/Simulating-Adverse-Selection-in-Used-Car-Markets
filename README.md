@@ -52,13 +52,13 @@ certification or rely on reputation to command higher prices, while buyers consi
 - Sellers can adjust prices based on market conditions and choose to apply for certification. Buyers make decisions based on budget, reputation scores, and certification status.
 - Certifiers provide third-party quality assurance, helping reduce information asymmetry. The simulation collects key metrics such as price distribution, reputation scores, sales volume, and buyer satisfaction.
 
-##Results
+## Results
 
 - Reputation systems help high-quality sellers (peaches) command higher prices.
 - Certification unexpectedly lowers prices, suggesting that buyers either undervalue certification or incur costs that reduce net prices.
 - Market satisfaction improves over time, indicating that reputation and certification systems help address adverse selection but do not completely eliminate it.
 
-##Future Work
+## Future Work
 The project identifies areas for future improvement:
 
 - Extend the simulation to run over longer periods to capture more long-term trends.
